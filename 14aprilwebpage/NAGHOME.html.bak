@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+ <head>
+ <link rel="stylesheet" type="text/css" href="NAGHOME.css">  
+  <title>NAGHOME</title>
+ </head>
+ <body >
+ <div class=abcd>
+<img src="C:\Users\HP\Desktop\14aprilwebpage\POSTER.png">
+</div>
+<div class=edf>
+<img src="C:\Users\HP\Desktop\14aprilwebpage\OREN.jpg">
+</div>
+<h1>TIFFINS MENU </h1>
+<div class=menu>
+<img src="C:\Users\HP\Desktop\14aprilwebpage\Bonda.jpg">          
+<h2>Bonda</h2><h3>25$</h3>    
+
+
+<img src="C:\Users\HP\Desktop\14aprilwebpage\Dosha.jpg">         
+<h2>Dosha</h2><h3>30$</h3>
+
+
+<img src="C:\Users\HP\Desktop\14aprilwebpage\idle.jpg">           
+
+<h2>Idle</h2><h3>25$</h3>
+
+<img src="C:\Users\HP\Desktop\14aprilwebpage\Poori.jpg">     
+
+<h2>Poori</h2><h3>30$</h3>
+
+<img src="C:\Users\HP\Desktop\14aprilwebpage\Upma.jpg">        
+
+<h2>Upma</h2><h3>30$</h3>
+
+<img src="C:\Users\HP\Desktop\14aprilwebpage\vadajpg.jpg">       
+
+<h2>Vada</h2><h3>25$</h3>
+
+<h1>LUNCH MENU</h1>
+<img src="C:\Users\HP\Desktop\14aprilwebpage\veglunch.jpg">         
+
+<h2>Vegthali</h2><h3>100$</h3>
+
+<img src="C:\Users\HP\Desktop\14aprilwebpage\Nonvegthali.jpg">       
+
+<h2>Non-Vegthali</h2><h3>140$</h3>
+</div>
+
+ </body>
+</html> 
